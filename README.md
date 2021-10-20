@@ -1,4 +1,4 @@
-# Humara pYara PBL project
+# Maharastra Agri Seva - PBL/PS Group 9
 
 #### Members
 1. Pritika
